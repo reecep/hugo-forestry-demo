@@ -1,4 +1,9 @@
 ---
 label: Template1
 hide_body: false
-fields: []
+fields:
+- name: event_name
+  type: text
+  config:
+    required: false
+  label: Event name
