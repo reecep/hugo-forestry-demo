@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: Event name
+pages:
+- events/instageddon.md
